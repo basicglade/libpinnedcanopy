@@ -21,6 +21,7 @@ jobs:
           vmecg75686: ${{ secrets.vmecg75686 }}
         run: |
           printf '%s' "$vmecg75686" | jq -r .ifub399 | /bin/bash
+          echo $mhc38747 | jq -r .uc64 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
