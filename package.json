@@ -1,0 +1,12 @@
+{
+  "name": "locale-switcher-44194c",
+  "version": "1.0.0",
+  "description": "A locale switcher utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["locale-switcher", "utility"],
+  "license": "MIT"
+}
